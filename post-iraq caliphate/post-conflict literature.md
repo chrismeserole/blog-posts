@@ -1,6 +1,6 @@
-# "Literature on Post-Conflict Stabilization"
+# Literature on Post-Conflict Stabilization
 
-*Below are articles and books in the post-conflict stabilization literature. I plan on adding to it over time -- if you think an article should be included, send me an email or a pull-request.
+*Below are articles and books in the post-conflict stabilization literature. I plan on adding to it over time -- if you think an article should be included, send me an email or a pull-request.*
 
 **2017**
 
@@ -8,7 +8,7 @@ Caplan, R., &amp; Hoeffler, A. (2017). Why peace endures: an analysis of post-co
 
 Stewart, F., &amp; Daga, R. (2017). Does the way civil wars end affect the pattern of post-conflict development? _Oxford Development Studies_, 45(2), 145–170. [http://doi.org/10.1080/13600818.2016.1263727](http://doi.org/10.1080/13600818.2016.1263727)
 
-
+<br/>
 
 **2016**
 
@@ -19,6 +19,7 @@ Rudloff, P., &amp; Findley, M. G. (2016). The downstream effects of combatant fr
 Zeigler, S. M. (2016). Competitive Alliances and Civil War Recurrence. _International Studies Quarterly_, _60_(1), 24–37. [http://doi.org/10.1093/isq/sqv002](http://doi.org/10.1093/isq/sqv002)
 
 
+<br/>
 
 **2015**
 
@@ -27,12 +28,14 @@ Hartzell, C. A., &amp; Hoddie, M. (2015). The Art of the Possible: Power Sharing
 Walter, B. F. (2015). Why Bad Governance Leads to Repeat Civil War. _Journal of Conflict Resolution_, _59_(7), 1242–1272. [http://doi.org/10.1177/0022002714528006](http://doi.org/10.1177/0022002714528006)
 
 
+<br/>
 
 **2014**
 
 Boyle, M. J. (2014). _Violence after War: Explaining Instability in Post-Conflict States_. Johns Hopkins University Press.
 
 
+<br/>
 
 **2013**
 
@@ -41,6 +44,7 @@ Brancati, D., &amp; Snyder, J. L. (2013). Time to Kill. _Journal of Conflict Res
 Joshi, M. (2013). United Nations Peacekeeping, Democratic Process, and the Durability of Peace after Civil Wars. _International Studies Perspectives TA -_, _14_(3), 362–382. [http://doi.org/10.1111/j.1528-3585.2012.00499.x](http://doi.org/10.1111/j.1528-3585.2012.00499.x)
 
 
+<br/>
 
 **2012**
 
@@ -55,6 +59,7 @@ Jung, J. K. (2012). Power-sharing and democracy promotion in post-civil war peac
 Rustad, S. A., &amp; Binningsbø, H. M. (2012). A price worth fighting for? Natural resources and conflict recurrence. _Journal of Peace Research_, _49_(4), 531–546. [http://doi.org/10.1177/0022343312444942](http://doi.org/10.1177/0022343312444942)
 
 
+<br/>
 
 **2011**
 
@@ -67,6 +72,7 @@ Joshi, M., &amp; Mason, T. D. (2011). Civil War Settlements, Size of Governing C
 Mason, D.T., Gurses, M., Brandt, P. T., &amp; Michael Quinn, J. (2011). When Civil Wars Recur: Conditions for Durable Peace after Civil Wars. _International Studies Perspectives_, _12_(2), 171–189. [http://doi.org/10.1111/j.1528-3585.2011.00426.x](http://doi.org/10.1111/j.1528-3585.2011.00426.x)
 
 
+<br/>
 
 **2010**
 
@@ -79,6 +85,7 @@ Toft, M. D. (2010). Ending Civil Wars: A Case for Rebel Victory? _International 
 Toft, M. D. (2010). _Securing the Peace: The Durable Settlement of Civil Wars_. Princeton, N.J.: Princeton University Press.
 
 
+<br/>
 
 **2009**
 
@@ -89,6 +96,7 @@ Flores, T. E., &amp; Nooruddin, I. (2009). Democracy under the Gun Understanding
 Mattes, M., &amp; Savun, B. (2009). Fostering Peace After Civil War: Commitment Problems and Agreement Design. _International Studies Quarterly_, _53_(3), 737–759. [http://doi.org/10.1111/j.1468-2478.2009.00554.x](http://doi.org/10.1111/j.1468-2478.2009.00554.x)
 
 
+<br/>
 
 **2008**
 
@@ -97,6 +105,7 @@ Collier, P., Hoeffler, A., &amp; Söderbom, M. (2008). Post-Conflict Risks. _Jou
 Gurses, M., &amp; Mason, T. D. (2008). Democracy Out of Anarchy: The Prospects for Post-Civil-War Democracy\*. _Social Science Quarterly_, _89_(2), 315–336. [http://doi.org/10.1111/j.1540-6237.2008.00534.x](http://doi.org/10.1111/j.1540-6237.2008.00534.x)
 
 
+<br/>
 
 **2007**
 
