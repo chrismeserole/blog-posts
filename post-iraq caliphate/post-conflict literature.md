@@ -3,6 +3,7 @@
 *Below are articles and books in the post-conflict stabilization literature. I plan on adding to it over time -- if you think an article should be included, [drop me a line](https://chrismeserole.com/contact/) or send a pull-request.*
 
 <br/>
+
 **2017**
 
 Caplan, R., &amp; Hoeffler, A. (2017). Why peace endures: an analysis of post-conflict stabilisation. _European Journal of International Security_, 2(2), 133–152. [http://doi.org/10.1017/eis.2017.2](http://doi.org/10.1017/eis.2017.2)
