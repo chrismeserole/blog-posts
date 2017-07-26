@@ -1,7 +1,6 @@
---
-title: "Literature on Post-Conflict Stabilization"
---
+# "Literature on Post-Conflict Stabilization"
 
+*Below are articles and books in the post-conflict stabilization literature. I plan on adding to it over time -- if you think an article should be included, send me an email or a pull-request.
 
 **2017**
 
